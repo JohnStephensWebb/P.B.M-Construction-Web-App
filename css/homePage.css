@@ -1,0 +1,28 @@
+.about{
+  text-decoration: underline;
+}
+.portfolio{
+  text-decoration: underline;
+}
+.contact{
+  text-decoration: underline;
+}
+.quote{
+  text-align: center;
+  font-family: 'Tangerine', cursive;
+}
+html {
+    font-family: 'Playfair Display SC', serif;
+  }
+  .slide1{
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  .slide2{
+    background-color: rgba(255, 255, 255, 0.5);
+  }
+  .slide3{
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  .slide4{
+    background-color: rgba(255, 255, 255, 0.5);
+  }
