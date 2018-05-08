@@ -28,3 +28,8 @@ body.fade-out {
   opacity: 0;
   transition: none;
 }
+@media screen and (max-width: 710px) {
+  #logo-container{
+    font-size: 125%;
+    }
+  }

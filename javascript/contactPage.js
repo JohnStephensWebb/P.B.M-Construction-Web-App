@@ -1,5 +1,7 @@
 document.addEventListener("DOMContentLoaded", function(event) {
-    console.log("DOM fully loaded and parsed");
+  console.log("DOM fully loaded and parsed");
 
-     $('body').removeClass('fade-out');
+  $(".button-collapse").sideNav();
+
+  $('body').removeClass('fade-out');
 });

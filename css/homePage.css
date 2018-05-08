@@ -34,6 +34,9 @@ html {
 .slide4 {
   background-color: rgba(255, 255, 255, 0.5);
 }
+.card-image:hover{
+  opacity: 0.7
+}
 
 body {
   opacity: 1;
@@ -44,3 +47,8 @@ body.fade-out {
   opacity: 0;
   transition: none;
 }
+@media screen and (max-width: 710px) {
+  #logo-container{
+    font-size: 125%;
+    }
+  }
