@@ -1,28 +1,46 @@
-.about{
+.about {
   text-decoration: underline;
 }
-.portfolio{
+
+.portfolio {
   text-decoration: underline;
 }
-.contact{
+
+.contact {
   text-decoration: underline;
 }
-.quote{
+
+.quote {
   text-align: center;
   font-family: 'Tangerine', cursive;
 }
+
 html {
-    font-family: 'Playfair Display SC', serif;
-  }
-  .slide1{
-    background-color: rgba(0, 0, 0, 0.5);
-  }
-  .slide2{
-    background-color: rgba(255, 255, 255, 0.5);
-  }
-  .slide3{
-    background-color: rgba(0, 0, 0, 0.5);
-  }
-  .slide4{
-    background-color: rgba(255, 255, 255, 0.5);
-  }
+  font-family: 'Playfair Display SC', serif;
+}
+
+.slide1 {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.slide2 {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.slide3 {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.slide4 {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+body {
+  opacity: 1;
+  transition: 1s opacity;
+}
+
+body.fade-out {
+  opacity: 0;
+  transition: none;
+}

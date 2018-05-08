@@ -1,11 +1,9 @@
 document.addEventListener("DOMContentLoaded", function(event) {
-    console.log("DOM fully loaded and parsed");
-
-    $(document).ready(function(){
-      $('.parallax').parallax();
-    });
+  console.log("DOM fully loaded and parsed");
 
 
+    $('.parallax').parallax();
+    $('body').removeClass('fade-out');
 
 
 
@@ -13,4 +11,4 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
 
 
-  });
+});
