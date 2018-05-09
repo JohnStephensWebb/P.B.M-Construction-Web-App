@@ -1,0 +1,50 @@
+[
+  {
+  "img":"http://barnesva.bluecorona.netdna-cdn.com/wp-content/uploads/2015/06/dc-northwest-new-house-rear-yard1.jpg",
+  "title": "Card Title",
+  "cardContent": "Lorem Ipsum",
+  "modalHeader": "Lorem Ipsum",
+  "modalContent": "Lorem Ipsum",
+  "id":"modal1"
+},
+  {
+  "img":"http://www.lvmodernhomes.com/wp-content/uploads/2015/10/photo_5588775-666x500.jpg",
+  "title": "Card Title",
+  "cardContent": "Lorem Ipsum",
+  "modalHeader": "Lorem Ipsum",
+  "modalContent": "Lorem Ipsum",
+  "id":"modal2"
+},
+  {
+  "img":"https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2014/12/17/1/Teresa-Ryback_Contemporary-West-Coast-Exterior.jpg.rend.hgtvcom.1280.853.suffix/1418836105562.jpeg",
+  "title": "Card Title",
+  "cardContent": "Lorem Ipsum",
+  "modalHeader": "Lorem Ipsum",
+  "modalContent": "Lorem Ipsum",
+  "id":"modal3"
+},
+  {
+  "img":"http://barnesva.bluecorona.netdna-cdn.com/wp-content/uploads/2015/06/dc-northwest-new-house-rear-yard1.jpg",
+  "title": "Card Title",
+  "cardContent": "Lorem Ipsum",
+  "modalHeader": "Lorem Ipsum",
+  "modalContent": "Lorem Ipsum",
+  "id":"modal4"
+},
+  {
+  "img":"http://www.lvmodernhomes.com/wp-content/uploads/2015/10/photo_5588775-666x500.jpg",
+  "title": "Card Title",
+  "cardContent": "Lorem Ipsum",
+  "modalHeader": "Lorem Ipsum",
+  "modalContent": "Lorem Ipsum",
+  "id":"modal5"
+},
+  {
+  "img": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2014/12/17/1/Teresa-Ryback_Contemporary-West-Coast-Exterior.jpg.rend.hgtvcom.1280.853.suffix/1418836105562.jpeg",
+  "title": "Card Title",
+  "cardContent": "Lorem Ipsum",
+  "modalHeader": "Lorem Ipsum",
+  "modalContent": "Lorem Ipsum",
+  "id":"modal6"
+  }
+]
