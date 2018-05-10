@@ -26,7 +26,18 @@ document.addEventListener("DOMContentLoaded", function(event) {
               <p>${content[i].cardContent}</p>
             </div>
             <div class="card-action">
-              <a href="#">This is a link</a>
+              <a class="waves-effect waves-light btn modal-trigger"     href="#${content[i].id}">Modal</a>
+
+              <!-- Modal Structure -->
+              <div id="${content[i].id}" class="modal modal-fixed-footer">
+                <div class="modal-content">
+                  <h4>${content[i].modalHeader}</h4>
+                  <p>${content[i].modalContent}</p>
+                </div>
+                <div class="modal-footer">
+                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat ">Close</a>
+                </div>
+              </div>
             </div>
           </div>
         </div>`
@@ -35,6 +46,9 @@ document.addEventListener("DOMContentLoaded", function(event) {
         let homeCards = $("#cards")
         homeCards.append(cardHtml)
       }
+      $('#modal4').modal();
+      $('#modal5').modal();
+      $('#modal6').modal();
     })
 
     $(".button-collapse").sideNav();
