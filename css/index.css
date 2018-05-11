@@ -57,3 +57,6 @@ body.fade-out {
         font-size: 115%;
       }
     }
+.slider .indicators .indicator-item.active {
+    background-color: #2979ff;
+}
