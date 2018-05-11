@@ -1,50 +1,50 @@
 [
   {
   "img":"http://barnesva.bluecorona.netdna-cdn.com/wp-content/uploads/2015/06/dc-northwest-new-house-rear-yard1.jpg",
-  "title": "Card Title",
-  "cardContent": "Lorem Ipsum",
-  "modalHeader": "Lorem Ipsum",
-  "modalContent": "Lorem Ipsum",
+  "title": "The White House",
+  "cardContent": "May, 2015",
+  "modalHeader": "The White House",
+  "modalContent": "Boasting a luxurious five bedrooms, movie theater, and fully conventional kitchen, The White House was sold in May of 2015 and quickly became a beacon of rustic modernism.",
   "id":"modal1"
 },
   {
   "img":"http://www.lvmodernhomes.com/wp-content/uploads/2015/10/photo_5588775-666x500.jpg",
-  "title": "Card Title",
-  "cardContent": "Lorem Ipsum",
-  "modalHeader": "Lorem Ipsum",
-  "modalContent": "Lorem Ipsum",
+  "title": "The Sunshine Remodel",
+  "cardContent": "August, 2015",
+  "modalHeader": "The Sunshine Remodel",
+  "modalContent": "The Sunshine Remodel found its way into the heart of a local artist when the idea was first presented by close friend. It spans the entire first floor and stairway leading to the top floor veranda. A true beauty.",
   "id":"modal2"
 },
   {
   "img":"https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2014/12/17/1/Teresa-Ryback_Contemporary-West-Coast-Exterior.jpg.rend.hgtvcom.1280.853.suffix/1418836105562.jpeg",
-  "title": "Card Title",
-  "cardContent": "Lorem Ipsum",
-  "modalHeader": "Lorem Ipsum",
-  "modalContent": "Lorem Ipsum",
+  "title": "The Retreat",
+  "cardContent": "March, 2016",
+  "modalHeader": "The Retreat",
+  "modalContent": "The Retreat is a 3 bedroom masterpiece, currently used as a vacation home for the winter months. With avid skiing in the surrounding areas, and a sauna in the lower level, this home is a one of a kind getaway.",
   "id":"modal3"
 },
   {
-  "img":"http://barnesva.bluecorona.netdna-cdn.com/wp-content/uploads/2015/06/dc-northwest-new-house-rear-yard1.jpg",
-  "title": "Card Title",
-  "cardContent": "Lorem Ipsum",
-  "modalHeader": "Lorem Ipsum",
-  "modalContent": "Lorem Ipsum",
+  "img":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6b7b4c40921539.579209da0706e.jpg",
+  "title": "Checkers",
+  "cardContent": "June 2016",
+  "modalHeader": "Checkers",
+  "modalContent": "Brilliantly designed for the real mountain lover, this work hard play hard environment is the perfect place for checkers. sold in 2016, this 5 bedroom house, complete with a master loft and backyard hot tub, is a true mountain gem.",
   "id":"modal4"
 },
   {
-  "img":"http://www.lvmodernhomes.com/wp-content/uploads/2015/10/photo_5588775-666x500.jpg",
-  "title": "Card Title",
-  "cardContent": "Lorem Ipsum",
-  "modalHeader": "Lorem Ipsum",
-  "modalContent": "Lorem Ipsum",
+  "img":"https://cdn.homedsgn.com/wp-content/uploads/2014/02/Mountain-Modern-06.jpg",
+  "title": "The Capital Remodel",
+  "cardContent": "April 2017",
+  "modalHeader": "The Capital Remodel",
+  "modalContent": "A full lower level remodel, including the kitchen, living room, foyer, and master bath, was completed with utter precision in order to create this beautiful addition. Finished in the spring of 2017, the Capital is the perfect place to host guests.",
   "id":"modal5"
 },
   {
-  "img": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2014/12/17/1/Teresa-Ryback_Contemporary-West-Coast-Exterior.jpg.rend.hgtvcom.1280.853.suffix/1418836105562.jpeg",
-  "title": "Card Title",
-  "cardContent": "Lorem Ipsum",
-  "modalHeader": "Lorem Ipsum",
-  "modalContent": "Lorem Ipsum",
+  "img": "https://cdn.decoist.com/wp-content/uploads/2015/02/Gorgeous-Colorado-vacation-home-surrounded-by-snow-covered-slopes.jpg",
+  "title": "The Mesa",
+  "cardContent": "September 2017",
+  "modalHeader": "The Mesa",
+  "modalContent": "This ski in ski out chateau hosts an array of guests since being turned into an Airbnb for half of the year. surrounded by lush powder during the winter months and a plethora of hiking and biking trails in the summer, staying here is an experience in itself.",
   "id":"modal6"
   }
 ]

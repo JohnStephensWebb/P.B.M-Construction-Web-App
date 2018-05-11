@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
               <p>${content[i].cardContent}</p>
             </div>
             <div class="card-action">
-              <a class="waves-effect waves-light btn modal-trigger"     href="#${content[i].id}">Modal</a>
+              <a class="waves-effect waves-light btn modal-trigger"     href="#${content[i].id}">Details</a>
 
               <!-- Modal Structure -->
               <div id="${content[i].id}" class="modal modal-fixed-footer">
